@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" device="false" fontscale="90" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns00000000001" font="a Atomic Md" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="a Atomic Md" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="a Atomic Md" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="a Atomic Md" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="a Atomic Md" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="false">
+            <options>
+              <option name="title_text" value="NEW APLIKASI PEMBELAJARAN MULTIMEDIA INTERAKTIF i-TUTOR BAHASA MELAYU T1" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="false">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="false" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="a Atomic Md" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00000000000">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns00000000001">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns00000000001">
+      <string id="acc_active">aktif</string>
+      <string id="check_include">Tandakan untuk disertakan</string>
+      <string id="clear">Hapus dan kembali ke Menu</string>
+      <string id="close">Tutup</string>
+      <string id="acc_closed_captions">Takarir tertutup. Tekan tombol spasi untuk mengaktifkan dan menonaktifkan takarir.</string>
+      <string id="continue">Teruskan</string>
+      <string id="continueresponsive">Teruskan</string>
+      <string id="exit">Keluar</string>
+      <string id="filter">Saring</string>
+      <string id="finish">SELESAI</string>
+      <string id="acc_finish">selesai</string>
+      <string id="definition">Definisi</string>
+      <string id="acc_definition">definisi</string>
+      <string id="glossary">Senarai istilah</string>
+      <string id="terms">Istilah</string>
+      <string id="action">Tindakan</string>
+      <string id="keyboardshortcuts">Pintasan Keyboard</string>
+      <string id="shortcuthelp">Senarai pintasan keyboard</string>
+      <string id="shortcut">Pintasan</string>
+      <string id="togglezoom">Alih mode zoom</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Putar perangkat Anda</string>
+      <string id="next">BERIKUTNYA</string>
+      <string id="acc_next">berikutnya</string>
+      <string id="transcript_chk">Catatan</string>
+      <string id="transcript">Catatan</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">Info lengkap</string>
+      <string id="closed_captions">Takarir</string>
+      <string id="acc_pause">jeda</string>
+      <string id="acc_play">putar</string>
+      <string id="send_an_email">Kirim email</string>
+      <string id="prev">SEBELUMNYA</string>
+      <string id="acc_previous">sebelumnya</string>
+      <string id="question_list">Senarai Pertanyaan</string>
+      <string id="acc_replay">ulangi</string>
+      <string id="resources">Sumber informasi</string>
+      <string id="acc_resources">sumber informasi</string>
+      <string id="restart">Ulang Semula</string>
+      <string id="resume">Lanjutkan</string>
+      <string id="acc_search_input">cari</string>
+      <string id="search_toggle">Cari</string>
+      <string id="sidebar_toggle">Butang Alih Bilah Samping</string>
+      <string id="desktop_start">Mulakan Kursus</string>
+      <string id="mobile_start">Mulakan Kursus</string>
+      <string id="search">Cari...</string>
+      <string id="search_in">Cari di:</string>
+      <string id="search_results">Hasil Pencarian</string>
+      <string id="acc_skipnavigation">Kembali ke atas</string>
+      <string id="slide_text_chk">Teks Slide</string>
+      <string id="submitall">HANTAR SEMUA</string>
+      <string id="acc_submitall">hantar semua</string>
+      <string id="submit">HANTAR</string>
+      <string id="acc_submit">hantar</string>
+      <string id="acc_volume">volume suara</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="a Atomic Md">
+      <files>
+        <file bold="false" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6K51aJNb7xx" displaytext="MENU UTAMA" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6K51aJNb7xx.6N8s1EdicB0" displaytext="MENU UTAMA" expand="false" type="slide" />
+            <slidelink slideid="_player.6K51aJNb7xx.6act0eCOhMj" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6K51aJNb7xx.5lvIOpy5MbV" displaytext="LOG MASUK" expand="false" type="slide" />
+            <slidelink slideid="_player.6K51aJNb7xx.5rBSVkiT4oZ" displaytext="LAMAN UTAMA" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6TZVD4oYDSw" displaytext="KATA GANTI NAMA DIRI" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6TZVD4oYDSw.6GRvfzkS66G" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.63boTdzRDYj" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.6FZLafF2zWY" displaytext="OBJEKTIF KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.6hFY0UUVx0u" displaytext="TUTORIAL KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.5chlLgHnZ80" displaytext="TUTORIAL KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.5uK4WlvOG38" displaytext="TUTORIAL KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.61lmHwRjZPk" displaytext="TUTORIAL KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.66wkeFqrifL" displaytext="TUTORIAL KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.6invOQHjMhb" displaytext="TUTORIAL KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.6lW5Y0nfz6I" displaytext="TUTORIAL KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.5Y2NSm8W67e" displaytext="TUTORIAL KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.6hcJt9grQXa" displaytext="Isikan tempat kosong dengan kata ganti nama diri orang yang sesuai.  “Murid-murid, bolehkan ____________ berkongsi pengalaman bercuti pada cuti sekolah yang lalu?”, tanya Cikgu Rahmah." expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.6F5het2aLfD" displaytext="Isikan tempat kosong dengan kata ganti nama diri orang yang sesuai.  “Pada cuti sekolah yang lalu, ______________ dan keluarga pergi melancong ke Bandaraya Bersejarah Melaka, “ jawab Anis Najihah." expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.5dwLCgPOub9" displaytext="Isikan tempat kosong dengan kata ganti nama diri orang yang sesuai.  “Semasa di sana, banyak tempat yang menarik telah _______________ sekeluarga pergi “ tambah Anis Najihah." expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.5Xpv8wtgMGH" displaytext="Isikan tempat kosong dengan kata ganti nama diri orang yang sesuai.  “Mengikut pembacaan saya, Melaka telah mencapai zaman kegemilangannya semasa pemerintahan Sultan Muzaffar Syah. ____________ telah mentadbir Melaka hingga menjadi pusat perdagangan terkemuka, “ sambung Wee Kok." expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.6WLpssXUg9f" displaytext="Isikan tempat kosong dengan kata ganti nama diri orang yang sesuai.  “Seharusnya, _________________ perlu berbangga menjadi rakyat Malaysia dengan melancong di negara sendiri seperti yang dilakukan oleh Anis Najihah,“ puji Maniam." expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.61MMg95cbwf" displaytext="Tentukan empat kata ganti nama diri pertama berdasarkan pilihan berikut :" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.5qKIHDDKZMu" displaytext="Tentukan empat kata ganti nama diri kedua berdasarkan pilihan berikut :" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.6SBNn6c49Ko" displaytext="Tentukan empat kata ganti nama diri ketiga berdasarkan pilihan berikut :" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.6btfRrNCGV1" displaytext="Berapakah jenis kata ganti nama diri orang?" expand="false" type="slide" />
+            <slidelink slideid="_player.6TZVD4oYDSw.6CPCPfyoFmy" displaytext="Pilih tiga jenis kata ganti nama diri orang daripada pilihan berikut :" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5lkfVQls0xN" displaytext="IMBUHAN MEN" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5lkfVQls0xN.5iVRq6AQw1L" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.6lcqNwlpZ17" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.62PfgzDXBDu" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.6efdx9tAI85" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.5x9CPmhyTJC" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.6bjm25yVIRl" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.6n0xZgByJcc" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.6eGsRVYmWTX" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.6ekR05Bdz5u" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.5oArMMbnze5" displaytext="MENU KATA GANTI NAMA DIRI" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.5jvFfiNgN4a" displaytext="Jika huruf awal bagi perkataan tersebut ialah t, k, p, s, f, l, m, n, ng, ny, r, w dan y dan kesemuanya adalah bukan kata pinjam, maka pengimbuhan awalan meN yang digunakan ialah :" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.6NobK14SYmF" displaytext="Jika huruf awal bagi perkataan tersebut ialah b, f (kata pinjam), p (kata pinjam) dan v (kata pinjam), maka pengimbuhan awalan meN yang digunakan ialah :" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.6XGb9b1IPfe" displaytext="Jika huruf awal bagi perkataan tersebut ialah c, d, j, sy, z, t (kata pinjam) dan s (kata pinjam), maka pengimbuhan awalan meN yang digunakan ialah :" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.5jVp50hQjP8" displaytext="Jika huruf awal bagi perkataan tersebut ialah g, h, gh, kh, a, e, i, o, u, dan k (kata pinjam), maka pengimbuhan awalan meN yang digunakan ialah :" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.5bFUmE32DBD" displaytext="Jika perkataan tersebut mempunyai satu suku kata sahaja, maka pengimbuhan awalan meN yang digunakan ialah :" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.5VsESeCNlIb" displaytext="Bina perkataan menggunakann imbuhan awalan yang betul bagi perkataan yang diberikan.   Kami (hilir) sungai itu dengan motobot." expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.5gTrqP0OtiN" displaytext="Bina perkataan menggunakann imbuhan awalan yang betul bagi perkataan yang diberikan.  Pelayan restoran itu (lap) meja yang kotor." expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.6opoTmsNkuj" displaytext="Bina perkataan menggunakann imbuhan awalan yang betul bagi perkataan yang diberikan.  Pihak polis telah (banteras) sindiket pemerdagangan orang di daerah itu." expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.65XiMRUM5PY" displaytext="Bina perkataan menggunakann imbuhan awalan yang betul bagi perkataan yang diberikan.  “Jangan mudah untuk (tuduh) sembarangan jika tiada bukti yang kukuh”, nasihat pegawai polis kepada wanita itu." expand="false" type="slide" />
+            <slidelink slideid="_player.5lkfVQls0xN.67YCGERVWX8" displaytext="Bina perkataan menggunakann imbuhan awalan yang betul bagi perkataan yang diberikan.  Pasangan pengantin itu saling (jeling) antara satu sama lain." expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5VdkiqkPMc1" displaytext="AYAT AKTIF" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5VdkiqkPMc1.6AsznFOsz2E" displaytext="MENU AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6k8LV3ka3CK" displaytext="OBJEKTIF AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.5rHQlBIpmKK" displaytext="PdP AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.67rD1qGUz4K" displaytext="KUIZ AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.5XsB0mOecx0" displaytext="PdP AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6DeAeAXQLVp" displaytext="FORMULA / STRUKTUR AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.631C0j2E8xM" displaytext="FORMULA / STRUKTUR AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.63rW0IxreD5" displaytext="FORMULA / STRUKTUR AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.5VkatsHB13i" displaytext="FORMULA / STRUKTUR AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.5z02tXUZQAB" displaytext="PdP AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6bSrSa9sgyp" displaytext="PdP AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.62wdKTbuImM" displaytext="PdP AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.5ye4NssL4OH" displaytext="FORMULA / STRUKTUR AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6o8R5QjA72v" displaytext="1. Apa itu ayat aktif?" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6mw9TjB3Fjy" displaytext="2. Berapakah jenis ayat aktif?" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6U1hmpJdUFF" displaytext="3. Pilih dua jenis ayat aktif berikut." expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6fcOi9phNMs" displaytext="4. Apakah komponen yang membezakan ayat aktif transitif dengan ayat aktif tak transitif?" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6Yh2i8xRvm2" displaytext="5. Nyatakan jenis ayat aktif yang tidak boleh dipasifkan." expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.5XqQo0MrzMD" displaytext="6. Pilih lima komponen ayat aktif" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6LNAWhjygkz" displaytext="7. Susun komponen berikut mengikut struktur ayat aktif." expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.5t4CfMJ7FU9" displaytext="8. Cerakinkan ayat berikut mengikut komponen ayat aktif dengan betul. Saya sedang mencuci kasut sekolah di bilik mandi." expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6S1gTwMYd8o" displaytext="9. Cerakinkan ayat berikut mengikut komponen ayat aktif dengan betul. Ibu memasak nasi lemak pagi tadi." expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.5ynBmRt2lnz" displaytext="10. Cerakinkan ayat berikut mengikut komponen ayat aktif dengan betul. Kita mesti mendengar nasihat guru kita. " expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.5dlc79rdTmf" displaytext="11. Tentukan tiga ayat aktif transitif daripada pilihan tersebut." expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.5hKrrmaGM0P" displaytext="12. Tentukan dua ayat aktif tak transitif daripada pilihan tersebut." expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6e6piQAmcIW" displaytext="PdP AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.62jdLbal7mA" displaytext="13. Apakah dua komponen yang tidak semestinya ada dalam struktur ayat aktif?" expand="false" type="slide" />
+            <slidelink slideid="_player.5VdkiqkPMc1.6FTpJzoxZIa" displaytext="TUTORIAL AYAT AKTIF" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6kxZ0fC4oFY" displaytext="AYAT PASIF" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6kxZ0fC4oFY.6iS2P9W5XwJ" displaytext="MENU AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6CjNyLTW6TC" displaytext="TUTORIAL AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5WGYfWxUtqT" displaytext="FORMULA / STRUKTUR AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6WWc47kgso9" displaytext="TUTORIAL AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6AYi9otEoDd" displaytext="TUTORIAL AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5dzZzvvwvBw" displaytext="FORMULA / STRUKTUR AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5Z40MbwKYDX" displaytext="TUTORIAL AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5sWQfDUg82H" displaytext="TUTORIAL AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5ila03gSy2v" displaytext="TUTORIAL AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6YmoNu3vzkb" displaytext="FORMULA / STRUKTUR AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6riqE2XUsoP" displaytext="TUTORIAL AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6Cq0ZC2Ec0M" displaytext="OBJEKTIF AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6hyTpca1Qdh" displaytext="STRUKTUR AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6mLwuM4IJOU" displaytext="1. Ayat pasif ialah ayat yang dihasilkan daripada ayat aktif transitif. Oleh itu, ayat pasif merupakan ayat yang mengandungi kata kerja yang menekankan objek asal sebagai unsur yang diterangkan." expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6A2RxbIW6Vo" displaytext="2. Ayat pasif terbahagi kepada ________ jenis." expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6gjqYzeuYt0" displaytext="3. Padankan jenis ayat pasif berikut mengikut struktur yang betul." expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5i8O0zNfO19" displaytext="4. Berdasarkan ayat pasif dibawah, tentukan DUA ayat pasif bagi jenis ayat aktif dengan imbuhan kata kerja pasif." expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.653Ie0k99yF" displaytext="FORMULA / STRUKTUR AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5gD7QNh0LRL" displaytext="Hanya ayat pasif yang mempunyai subjek bagi jenis kata ganti nama diri ketiga boleh menerima imbuhan di… oleh pada kata kerja.  Betul atau salah?" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.68PaM6ee6Ib" displaytext="Subjek ayat pasif bagi jenis kata ganti nama diri ini tidak boleh menerima imbuhan di…oleh. Tandakan dua jenis kata ganti nama berikut dari pilihan di bawah." expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5XrHdliH0EU" displaytext="7. “Aku, saya, patik, hamba, beta, kami, dan kita” merupakan kata ganti nama diri ke berapa?" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5b7upZbDNyU" displaytext="Tentukan jenis kata ganti nama bagi subjek ayat pasif berikut :  “Novel itu sudah dipulangkan oleh Nazri kelmarin”" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6fEUlHtXYJy" displaytext="Tentukan jenis kata ganti nama bagi subjek ayat pasif berikut :  “Jam tangan itu telah saya hadiahkan kepada ayah”" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6pgrIcfWNT2" displaytext="Tentukan jenis kata ganti nama bagi subjek ayat pasif berikut :  “Ibu bapa harus kamu hormati”" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6XAgq6YXuPS" displaytext="11. Padankan komponen ayat pasif berikut mengikut komponen yang betul." expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5VF4srWuXmb" displaytext="FORMULA / STRUKTUR AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.5W5qlx6ZAyE" displaytext="TUTORIAL AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6kxZ0fC4oFY.6YDDrHuKnp4" displaytext="KUIZ AYAT PASIF" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5XI7hxzh3Pt" displaytext="MENUKARKAN AYAT AKTIF KEPADA AYAT PASIF " expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5XI7hxzh3Pt.6jgz6fchboq" displaytext="MENU UTAMA" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.5nPoEwgIgz9" displaytext="OBJEKTIF TUKAR AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6oIXZVo7DwX" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6AWi6uM3Du8" displaytext="OBJEKTIF AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6832gfniDkQ" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6HvaUGyjm42" displaytext="OBJEKTIF AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6TT1NQ1yp8Q" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6kTrJFy6zfk" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6JaERTlR39P" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.5rKXJDVIymg" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6Epe1gJ3HTY" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6RsSPSOcsUA" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6gLmbkV7Rgz" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.5tgohtA7eKt" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6T7IsnNSCs2" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6Beyw4Givj3" displaytext="PdP PENUKARAN AYAT AKTIF KEPADA AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.65bwHJlqiTW" displaytext="KUIZ AYAT PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.5l1tdHpP7j0" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6KdTx9bENNz" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.65bHyBYlO3K" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6TAEuwmnmGJ" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6WT5Sw0Ggco" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6IrLepUfeHg" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.68T9OxuMlvF" displaytext="Pilih ayat-ayat yang betul. I.  Baju yang berwarna merah itu saya beli di pasar malam pada minggu lepas. II. Kereta baharu itu dinaiki oleh kami ke bandar pada pagi tadi III. Lagu “Negaraku” mestilah kita nyanyikan dengan penuh semangat semasa perhimpunan sekolah. IV. Makanan itu kamu beli di kantin sekolah pada waktu rehat tadi." expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.5ysC7DeTmpo" displaytext="Pilih ayat-ayat yang betul. I.  Kerja sekolah dapat disiapkan oleh kamu dalam masa yang begitu singkat. II. Bangunan itu boleh kamu bersihkan pada minggu hadapan selepas penyewa itu keluar. III. Bola itu kamu telah tendang dengan kuat sehingga memasuki halaman rumah jiran. IV. Nasi di dalam periuk itu jangan kamu panaskan lagi kerana sudah hampir basi." expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.5ZHQHlMRwMC" displaytext="Pilih ayat-ayat yang betul. I.  Projek itu masih belum kami siapkan walaupun masa semakin suntuk. II. Gunung yang tinggi itu dapat juga didaki oleh kita hasil latihan dan disiplin yang tinggi. III. Masakan itu akhirnya dapat kamu siapkan dalam tempoh masa yang diberikan oleh penganjur. IV. Majlis penyerahan kunci rumah itu akan disempurnakan oleh Pegawai Daerah Hilir Perak." expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.5tOXh8UdMtQ" displaytext="Pilih ayat-ayat yang betul. I.  Lukisan itu mereka hayati keindahannya sambil mentafsir maksud di sebaliknya. II. Buku yang tebal itu dibaca oleh adik saya dalam masa yang singkat kerana dia minat membaca buku. III. Kereta baharu itu dibeli oleh ayah untuk dihadiahkan kepada kakak. IV. Jalan raya yang rosak itu akan dibaiki oleh kontraktor dengan segera hasil desakan orang ramai." expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6eOPfTS4jCW" displaytext="KALKULATOR" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6gMHU08hVOb" displaytext="DATA AKTIF - PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6M7slMmIHnk" displaytext="MENU KGND" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6kkZk0KRYWv" displaytext="RESULT KGND1 &amp; 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5XI7hxzh3Pt.6L3cbN76kpK" displaytext="RESULT KGND3" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6CLJul9p9z1" displaytext="MENUKARKAN AYAT PASIF KEPADA AYAT AKTIF" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6CLJul9p9z1.5zG1c07fm5u" displaytext="MENU UTAMA" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6OC8zTlrFWU" displaytext="OBJEKTIF TUKAR AYAT PASIF KEPADA AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.66f9MRF63bC" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.60rYcjO2nDl" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6W6cVt2Idql" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.67NTwFq5Ib6" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5rrmRAt16e3" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6BPvCM6r7eF" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6rBTSWKOxzk" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6ZK1n2kN7Fu" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5otS1YpR1Mr" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6F0OjZ5oegt" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.67ESBqB0EIU" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6FtHM84MWRZ" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6MJMkzzJwXE" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6aMe1x5EWGp" displaytext="KUIZ PENGUKUHAN" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.68ctG742kkh" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6qmU4wlYbKR" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5jdYyrtfPMp" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5pkRj0m190k" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5lCWXGYWPlI" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6kDgShz2uOB" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6l3bPE5aEuv" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6LNFu3LQjWh" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6TYbiwLd37I" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5wYYtA5MCv7" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5aoMCiUy0Hd" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5ukTcHlhPoW" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6lBTVSS2M45" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6piRC8AIUWt" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5q2ySjFJSKe" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5bxoj3fKZcI" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5fd3Yjoxupl" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6jZPWMPcaGe" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5YxrpbD3D8G" displaytext="STRUKTUR / FORMULA AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6Co7vNkGHRp" displaytext="PdP AYAT PASIF KE AYAT AKTIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6EttqF1iGM8" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5oy115gGFYA" displaytext="DATA AKTIF - PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6oOnEZxZ1Q3" displaytext="HURUF AWAL" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6kRmUSRQRix" displaytext="MENG-K" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6gB5b6cyUtK" displaytext="MEN-T" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5aqgnRkxD7M" displaytext="MENG-satu suku kata" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6AfU78SMhVf" displaytext="MENY-S" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.632OpSqp7xI" displaytext="MEM-P" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6ZRrOldEHiI" displaytext="ME-L,M,N,NH,NY,R,W,Y" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6MXSTswOYAX" displaytext="MEM-B,F,P,V" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.5xn0TtL7sJt" displaytext="MEN-C,D,J,SY,Z,T,S" expand="false" type="slide" />
+            <slidelink slideid="_player.6CLJul9p9z1.6BDgWnNOOJp" displaytext="MENG-G,H,GH,KH,A,E,I,O,U,K" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6odUIarQKNp" displaytext="KALKULATOR AYAT AKTIF - AYAT PASIF" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6odUIarQKNp.5UmOfFVPEp5" displaytext="KALKULATOR" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.5vpjv2fCuSP" displaytext="MENU" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.5qUsoxbwF5v" displaytext="DATA AKTIF - PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.6MMLjJsuPp1" displaytext="MENU KGND" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.6eNI0RSZmWV" displaytext="RESULT KGND1 &amp; 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.62VlH9IbxV8" displaytext="RESULT KGND3" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.6I79AHP4GcY" displaytext="DATA AKTIF - PASIF" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.6NmpZdq0j4q" displaytext="HURUF AWAL" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.5mv0gs0vf1L" displaytext="MEN-T" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.5pXdti3HCIf" displaytext="MENG-K" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.62K50V87a5I" displaytext="MENY-S" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.6cc1Hk7RUQA" displaytext="MEM-P" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.5mXpKlaJ6lF" displaytext="MENG-satu suku kata" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.6O6uIQCZ8de" displaytext="ME-L,M,N,NH,NY,R,W,Y" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.61Sg8zHbp0F" displaytext="MEM-B,F,P,V" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.5fB435w2VjK" displaytext="MEN-C,D,J,SY,Z,T,S" expand="false" type="slide" />
+            <slidelink slideid="_player.6odUIarQKNp.6YZ4B1VohHh" displaytext="MENG-G,H,GH,KH,A,E,I,O,U,K" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6cOCaEftcz7" displaytext="PENTAKSIRAN SUMATIF" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6cOCaEftcz7.6EeXx1F0xWt" displaytext="PENTAKSIRAN AKHIR" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5yhaoafJwkW" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6FRTjpEyfMj" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6364a6gW1Md" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5zcZkvmkii0" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5kTHzWGQc91" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6TytIfRFkxR" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6VtcqLgRMQ0" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6k8siBbh79W" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5roy39vMFQm" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6ozyD4gOtWi" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5kbQxjiVvSk" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6EA0mydZmYQ" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6OxM7xxEjux" displaytext="13. Ayat di bawah mungkin betul atau mungkin salah. Jika terdapat kesalahan, kesalahan itu telah ditandakan dengan huruf tebal dan bergaris. Jika tiada kesalahan sila tandakan pilihan tiada kesalahan. Pilih jawapan yang paling sesuai.  “Tuanku  telah menitahkan patik  untuk menyampaikan titah agar tuan hamba  berkawal di seluruh istana,” ujar Temenggung kepada para pengawal istana. Tiada kesalahan ." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6Kiv0CyrjAP" displaytext="14. Lengkapkan ayat berikut dengan memilih jawapan yang paling sesuai.  Bot polis marin itu telah _________________ sebuah sampan yang ditemui di tengah-tengah lautan." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6RwWAWLxPkd" displaytext="15. Tentukan ayat aktif  dari pilihan di bawah.  I	Ayah mengirimi nenek wang II	Kerajaan memberikan subsidi kepada golongan petani. III	Bilik itu telah kamu kemas? IV	Fail kewangan syarikat masih saya kemas kini sejak semalam." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6oXhXYcSkrK" displaytext="16. Tentukan ayat pasif dari pilihan di bawah.  I	Bayi itu terminum ubat batuk. II	Sampan ditolak oleh nelayan itu ke tepi pantai. III	Perabot lama itu kena buang oleh orang kata itu. IV	Program kutipan derma itu telah kami laksanakan dengan 	jayanya." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.62tdBz5pkzb" displaytext="21. Tukarkan ayat aktif di bawah kepada ayat pasif tanpa mengubah maksud asalnya.  Mereka telah membersihkan longkang sekolah pada petang semalam." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6EBmKp2DWNB" displaytext="22. Tukarkan ayat aktif di bawah kepada ayat pasif tanpa mengubah maksud asalnya.  Ibu telah memarahi adik kerana bermain air di bilik mandi." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5YHr764XRBd" displaytext="23. Tukarkan ayat aktif di bawah kepada ayat pasif tanpa mengubah maksud asalnya.  “Patik telah mengarahkan semua hulubalang untuk memperketat kawalan keselamatan supaya kecurian tidak berlaku lagi,” ujar Temenggung kepada Sultan." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6F4QfE0p3lf" displaytext="24. Tukarkan ayat aktif di bawah kepada ayat pasif tanpa mengubah maksud asalnya.  Kamu perlu mendengar segala arahan jurulatih." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6Og4dxhRs03" displaytext="25. Tukarkan ayat aktif di bawah kepada ayat pasif tanpa mengubah maksud asalnya.  Saya mengupas buah mangga untuk nenek." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5hctyowIvVw" displaytext="26. Tukarkan ayat aktif di bawah kepada ayat pasif tanpa mengubah maksud asalnya.  Kami perlu menewaskan kumpulan itu untuk mara ke peringkat seterusnya." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6iXVkFh5vDD" displaytext="27. Tukarkan ayat aktif di bawah kepada ayat pasif tanpa mengubah maksud asalnya.  Kucing itu menggigit anak tikus yang hampir mati itu." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6gApYPunTHg" displaytext="28. Tukarkan ayat aktif di bawah kepada ayat pasif tanpa mengubah maksud asalnya..  Sebagai pengguna yang bijak, kita perlu meneliti maklumat barangan sebelum membelinya." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6SoeA5g64kS" displaytext="29. Tukarkan ayat aktif di bawah kepada ayat pasif tanpa mengubah maksud asalnya.  Saya telah memberikan ceramah yang bertajuk “Kuasai Diri, Inspirasi Kejayaan”." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6GU9VF4sVcw" displaytext="30. Tukarkan ayat aktif di bawah kepada ayat pasif tanpa mengubah maksud asalnya.  “Kalian sudah mengetahui berita tentang pembatalan perkhemahan unit beruniform?” tanya Puan Lim kepada murid Tingkatan 1." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6MHC6UJTcdc" displaytext="31. Tukarkan ayat pasif di bawah kepada ayat aktif tanpa mengubah maksud asalnya.  “Sekalian rakyat beta seru untuk menjaga perpaduan kaum demi keamanan negara,” titah Sultan Selangor semasa Hari Kebangsaan." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5mjewc5prLk" displaytext="32. Tukarkan ayat pasif di bawah kepada ayat aktif tanpa mengubah maksud asalnya.  Sejak bekerja di Kuala Lumpur, ibu bapanya di kampung jarang-jarang dijenguk oleh Amin disebabkan kekangan masa." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6As6bCivd2h" displaytext="33. Tukarkan ayat pasif di bawah kepada ayat aktif tanpa mengubah maksud asalnya.  Gambar pemandangan yang indah itu saya lukis semalam." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6K62Vqh7iPx" displaytext="34. Tukarkan ayat pasif di bawah kepada ayat aktif tanpa mengubah maksud asalnya.  Pakaian dan makanan didermakan oleh Datin Marina kepada mangsa banjir di Kelantan." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5cvTsfK3aTg" displaytext="35. Tukarkan ayat pasif di bawah kepada ayat aktif tanpa mengubah maksud asalnya.  Kem motivasi di Pantai Morib itu akan disertai oleh Amirul jika diizinkan oleh ibunya." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6Tcyz43pugx" displaytext="36. Tukarkan ayat pasif di bawah kepada ayat aktif tanpa mengubah maksud asalnya.  Basikal yang menggunakan kuasa solar itu dicipta oleh rakyat Malaysia." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6RfnBYm5Wta" displaytext="37. Tukarkan ayat pasif di bawah kepada ayat aktif tanpa mengubah maksud asalnya.  Abang dipukul oleh ayah kerana ponteng sekolah." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6ayjCI3AUUF" displaytext="38. Tukarkan ayat pasif di bawah kepada ayat aktif tanpa mengubah maksud asalnya.  Ruang legar pasar raya dipenuhi oleh peminat penyanyi tersohor itu seawal pukul 10.00 pagi." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.64THvZrl2r5" displaytext="39. Tukarkan ayat pasif di bawah kepada ayat aktif tanpa mengubah maksud asalnya.  Langkah-langkah menangani krisis ekonomi dunia sedang dibentangkan oleh pakar ekonomi itu." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6C3cVdQUyHF" displaytext="40. Tukarkan ayat pasif di bawah kepada ayat aktif tanpa mengubah maksud asalnya.  Encik Tan dan Encik Amirul telah ditangkap oleh Badan Pencegah Rasuah kerana disyaki pecah amanah." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.6HgQvcR08z1" displaytext="19. Cerakinkan ayat aktif dibawah mengikut struktur komponennya.  Kakak sedang menidurkan adik di dalam buaian." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5x1TCfkrI1a" displaytext="20. Cerakinkan ayat pasif dibawah mengikut struktur komponennya.  Komputer riba itu digunakan oleh Hairul untuk mencari maklumat di internet." expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.5aYK5RRvapV" displaytext="18. Padankan imbuhan meN dengan kata kerja berikut" expand="false" type="slide" />
+            <slidelink slideid="_player.6cOCaEftcz7.63x3MAQkpYo" displaytext="17. Kelaskan ayat di bawah kepada kata ganti nama diri pertama, kedua atau ketiga" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
